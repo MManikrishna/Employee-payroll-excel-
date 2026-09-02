@@ -82,5 +82,6 @@ By completing this project, I gained hands-on experience in:
 * Applying formulas to automate calculations
 * Understanding payroll logic
 * Using Excel for business-related tasks
+* using Excel make business is easy for insights 
 
  
