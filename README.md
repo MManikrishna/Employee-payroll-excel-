@@ -74,7 +74,7 @@ Microsoft Excel
 
 ---
 
-## ✅ Outcome
+## ✅ Outcomes
 
 By completing this project, I gained hands-on experience in:
 
