@@ -12,7 +12,7 @@ The system calculates employee pay based on the number of hours worked and their
 
 ## 🎯 Project Objective
 
-The goal of this project is to:
+The goal of this project is to :
 
 * Automate salary calculation using Excel formulas
 * Organize employee work and pay data
